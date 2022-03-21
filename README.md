@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tx0vteB_hZD4rvlKBKojAIVrQzyoxOBn/view?usp=sharing](https://drive.google.com/file/d/1tx0vteB_hZD4rvlKBKojAIVrQzyoxOBn/view?usp=sharing)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=akinolu52&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+https://activity-graph.herokuapp.com/graph?username=akinolu52&theme=dracula
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
