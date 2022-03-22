@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://akinolu52.hashnode.dev/](https://akinolu52.hashnode.dev/)
 
-- 💬 Ask me about **Algorithms, Typescript, Javascript,React Js & React Native**
+- 💬 Ask me about **Algorithms, Typescript, Javascript, React Js & React Native**
 
 - 📫 How to reach me **akinolu52@gmail.com**
 
