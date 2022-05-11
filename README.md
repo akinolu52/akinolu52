@@ -31,9 +31,7 @@
 
 <p>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a608be85fa8f100a69f03fab43715b1298247358a0b3891e9b0c226c5042d576/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d616b696e6f6c7535322673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374"><img align="left" src="https://camo.githubusercontent.com/a608be85fa8f100a69f03fab43715b1298247358a0b3891e9b0c226c5042d576/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d616b696e6f6c7535322673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="akinolu52" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=akinolu52&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;"></a>
-  </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akinolu52&show_icons=true&count_private=true&theme=radical" alt="akinolu52" /></p>
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akinolu52&show_icons=true&count_private=true&locale=en" alt="akinolu52" /></p>
 
